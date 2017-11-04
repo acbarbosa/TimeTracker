@@ -1,10 +1,10 @@
 Name:                TimeTrackerApi
 Version:             0.1
-Synopsis:            Project Synopsis Here
-Description:         Project Description Here
+Synopsis:            REST API for TimeTracker project
+Description:         TimeTracker is a personal time tracking
 License:             AllRightsReserved
-Author:              Author
-Maintainer:          maintainer@example.com
+Author:              Alexandre Corrêa Barbosa
+Maintainer:          alexandre.correa@gmail.com
 Stability:           Experimental
 Category:            Web
 Build-type:          Simple
